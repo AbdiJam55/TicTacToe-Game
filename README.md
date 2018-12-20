@@ -1,4 +1,4 @@
-# TicTacToe-Game
+# TicTacToe
 Simple game built with JavaFX
 
 This Simple Game was built using Java SE 8u192 (JDK 1.8.0_192).
